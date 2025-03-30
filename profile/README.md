@@ -15,12 +15,10 @@ Nossos projetos são desenvolvidos com foco em acessibilidade e colaboração. A
 ## 📈 Estatísticas
 
 [![Contador de Visitas](https://profile-counter.glitch.me/%7BChafterInnovations%7D/count.svg)](https://github.com/ChafterInnovations)
-![Linguagens mais usadas](https://img.shields.io/github/languages/top/ChafterInnovations?style=flat-square)
-![Contribuidores](https://img.shields.io/github/contributors/ChafterInnovations?style=flat-square)
 
 ## 💬 Comunidade
 
-Junte-se à nossa comunidade de desenvolvedores e entusiastas no **[Discord](https://discord.com/invite/xyz)** e no **[Fórum](https://forum.chafterinnovations.com)**. Aqui, você pode tirar dúvidas, compartilhar ideias e colaborar em nossos projetos!
+Junte-se à nossa comunidade de desenvolvedores e entusiastas no **[Discord](https://discord.gg/YZAWk3Gjaq)**
 
 ---
 
