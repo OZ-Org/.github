@@ -1,7 +1,5 @@
 # Chafter Innovations
 
-![Chafter Innovations Banner](https://example.com/banner.jpg)
-
 ## 🚀 Missão
 
 A missão da **Chafter Innovations** é promover e desenvolver projetos **Open Source** que criem soluções acessíveis e colaborativas. Nosso objetivo é permitir que todos, independentemente de sua experiência, possam **usar**, **contribuir** e **se beneficiar** dos nossos projetos.
